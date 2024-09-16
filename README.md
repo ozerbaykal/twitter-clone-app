@@ -71,7 +71,7 @@ The main technologies and libraries used in this project are:
  ##  Installation 
 
 -  Clone the project to your local machine:
-git clone https://github.com/ozerbaykal/tweetter-clone-app.git
+git clone https://github.com/ozerbaykal/twitter-clone-app.git
 
 - Navigate to the project directory:
 ```
@@ -129,8 +129,6 @@ Contributions are welcome! Please open an issue first to discuss what you would 
 
 <h2>Contact</h2>
 
-
-
 Özer BAYKAL  mail : baykalozer87@gmail.com
 
-Project Link: https://github.com/ozerbaykal/toolkit-thunk-flight-radar
+Project Link: https://github.com/ozerbaykal/twitter-clone-app
